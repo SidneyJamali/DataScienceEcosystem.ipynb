@@ -4,6 +4,7 @@ Some of the popular languages that Data Scientists use are:
 1. Python
 2. R
 3. Julia
+
 Some of the commonly used libraries used by Data Scientists include:
 1. Pandas
 2. NumPy
